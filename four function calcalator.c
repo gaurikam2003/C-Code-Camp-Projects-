@@ -1,7 +1,7 @@
 //FOUR FUNCTION CALCULATOR
 
-/*
- double num1;        //defining first number
+int main() {
+    double num1;        //defining first number
     double num2;        //defining second number
     char op;            //defining operation
 
@@ -27,4 +27,4 @@
     else {
        printf("Invalid Operator");
     }
-*/
+}
